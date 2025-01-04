@@ -1,2 +1,2 @@
 # BeSimple
-A minimalist notetaking and to-do application. Built with flutter.
+A minimalist notetaking and to-do application. Built with flutter & Flutterflow
