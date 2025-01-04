@@ -77,7 +77,7 @@ class _ToastWidgetState extends State<ToastWidget> {
               buttonSize: 40.0,
               hoverColor: FlutterFlowTheme.of(context).primaryBackground,
               icon: Icon(
-                Icons.close_rounded,
+                FFIcons.kxCircle,
                 color: FlutterFlowTheme.of(context).secondaryBackground,
                 size: 24.0,
               ),
